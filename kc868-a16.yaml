@@ -1,5 +1,5 @@
 esphome:
-  name: KC868-A16
+  name: kc868-a16
   platform: ESP32
   board: esp32dev
 
