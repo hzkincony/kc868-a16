@@ -3,14 +3,14 @@ esphome:
   platform: ESP32
   board: esp32dev
 
-# Enable logging
-logger:
-
 web_server:
   port: 80
 
 dashboard_import:
   package_import_url: github://hzkincony/kc868-a16/kc868-a16.yaml@main
+
+ota:
+  password: ""
 
 # Example configuration entry for ESP32
 i2c:
