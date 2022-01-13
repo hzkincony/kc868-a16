@@ -1,7 +1,7 @@
 # About
 
 # KC868-A16 Smart Controller for home automation  
-![image](https://www.kincony.com/images/KC868-A8/kc868-a16_ESP32_relay.jpg)  
+![image](https://www.kincony.com/images/KC868-A16/kc868-a16_ESP32_relay.jpg)  
 
 # hardware resource:  
 
