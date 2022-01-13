@@ -1,6 +1,18 @@
 # About
 
-KC868 A16
+KC868-A16 Smart Controller for home automation  
+
+hardware resource:  
+
+Ethernet/WiFi/Bluetooth/RS485  
+16 channel relay output  
+16 channel digital input  
+433MHz RF transmit  
+433MHz RF receiver  
+2 channel analog input (DC 0-5V)  
+2 channel analog input (4-20mA)  
+4 channel GPIO (pull-up resistor)  
+IIC extend port  
 
 # Installation
 
