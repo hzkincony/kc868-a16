@@ -1,8 +1,9 @@
 # About
 
-KC868-A16 Smart Controller for home automation  
+# KC868-A16 Smart Controller for home automation  
+![image](https://www.kincony.com/images/KC868-A8/kc868-a16_ESP32_relay.jpg)  
 
-hardware resource:  
+# hardware resource:  
 
 Ethernet/WiFi/Bluetooth/RS485  
 16 channel relay output  
